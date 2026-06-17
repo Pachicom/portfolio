@@ -12,6 +12,7 @@
 - Хобби / Hobbies
 - Лучшие проекты / The best projects
 - GitHub
+- Мой логотип / My logo
 
 ## Запуск / Launch
 
