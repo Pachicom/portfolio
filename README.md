@@ -13,6 +13,8 @@
 - Лучшие проекты / The best projects
 - GitHub
 - Мой логотип / My logo
+- ```bash
+  python logo.py
 
 ## Запуск / Launch
 
