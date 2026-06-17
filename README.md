@@ -1,11 +1,19 @@
----------------
-Russian language:
----------------
-Чтобы запустить код, нужно прописать в командную строку : 
-python main.py
+# Portfolio
 
----------------
-English language:
----------------
-To run the code, you need to write in the command line:
+Консольное портфолио на Python / The Python Console Portfolio
+
+## Возможности / Opportunities
+
+- О себе / About yourself
+- Моя цель / My goal
+- История в IT / History in IT
+- Мой ментор / My mentor
+- Точка А → Точка Б / Point A → Point B
+- Хобби / Hobbies
+- Лучшие проекты / The best projects
+- GitHub
+
+## Запуск / Launch
+
+```bash
 python main.py
